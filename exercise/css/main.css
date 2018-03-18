@@ -1,0 +1,26 @@
+a:hover {
+  background-color: red;
+  border: 2px solid black;
+  transition: 0.5s ease;
+  font-size: 100px;
+}
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+  display: inline;;
+}
+.navigation {
+  text-align: center;
+}
+.buttons {
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+  transition: 0;
+}
+button {
+  border: none;
+  background-color: pink;
+}
